@@ -55,7 +55,7 @@ export default function Home() {
           punchline: 'Swarm'
         }}/>
         <JokesComponent joke={{
-          setup: 'It\'s hard to explain puns to kleptomaniacs because * they always take things literally.',
+          setup: 'It\'s hard to explain puns to kleptomaniacs because they always take things literally.',
         }}/>
       </>
     </>
