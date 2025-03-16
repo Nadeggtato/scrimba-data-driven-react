@@ -59,6 +59,7 @@ header > h1 {
 
 article.journal-entry {
   display: flex;
+  margin-bottom: 36px;
 }
 
 article.journal-entry .marker {
@@ -88,7 +89,7 @@ article.journal-entry .main-image {
 }
 
 .info-container a {
-  color: #2B283A;
+  color: #918E9B;
   font-size: 0.7rem;
 }
 
